@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayabKhanvict)](https://github.com/NayabKhanvict/github-readme-stats)
+[![Nayab's GitHub stats](https://github-readme-statss-beige.vercel.app/api?username=NayabKhanvict)](https://github.com/NayabKhanvict/github-readme-stats)
+
+
+github-readme-statss-beige.vercel.ap
 <!--
 **NayabKhanvict/NayabKhanvict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
