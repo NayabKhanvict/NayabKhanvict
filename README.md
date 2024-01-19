@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayabKhanvict&show_icons=true&theme=merko)
 ![Nayab's GitHub stats](https://github-readme-stats-rho-dusky.vercel.app/api?username=NayabKhanvict&show_icons=true&theme=merko)
 
 <!--
