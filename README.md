@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Im Nayab👋
+
+
+Nayab is a business-savvy software engineer, with a knack for education. As a result, she has spent the last 6 years of experience developing innovative solutions across SaaS, MedTech, Consulting and Services industries. Strong command of fullstack development with exposure to programming, debugging, design-thinking, enterprise architecture, UX/UI, data flow, e-commerce, and CI/CD pipelines.
 
 ![Nayab's GitHub stats](https://github-readme-stats-rho-dusky.vercel.app/api?username=NayabKhanvict&show_icons=true&theme=merko)
 
