@@ -7,7 +7,6 @@ Nayab is a business-savvy software engineer, with a knack for education. As a re
 📊 Developer Statistics
 
 
-User
 ![Nayab's GitHub stats](https://github-readme-stats-rho-dusky.vercel.app/api?username=NayabKhanvict&&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=merko&hide_rank=true)
 
 
