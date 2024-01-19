@@ -2,7 +2,7 @@
 
 ![Nayab's GitHub stats](https://github-readme-stats-rho-dusky.vercel.app/api?username=NayabKhanvict&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats-rho-dusky.vercel.app/api/top-langs/?username=NayabKhanvict&layout=compact)](https://github.com/NayabKhanvict/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rho-dusky.vercel.app/api/top-langs/?username=NayabKhanvict&show_icons=true&theme=merko)](https://github.com/NayabKhanvict/github-readme-stats)
 
 
 <!--
