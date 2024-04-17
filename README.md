@@ -7,6 +7,7 @@ Nayab is a business-savvy software engineer, with a knack for education. As a re
 📊 Developer Statistics
 
 <img width="290" alt="Screenshot 2024-01-18 at 7 50 19 PM" src="https://github.com/NayabKhanvict/NayabKhanvict/assets/37957444/4eb9b411-19a6-409a-9d57-4e7737e5601f">
+<br/>
 <img width="307" alt="Screenshot 2024-01-18 at 7 50 03 PM" src="https://github.com/NayabKhanvict/NayabKhanvict/assets/37957444/caac054b-64af-4c09-a4c0-55e497498ce3">
 
 
